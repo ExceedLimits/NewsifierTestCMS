@@ -1,0 +1,1 @@
+<img width="96px" style="padding: 0.5rem" src="https://img.icons8.com/avantgarde/452/experimental-news-avantgarde.png"/>
