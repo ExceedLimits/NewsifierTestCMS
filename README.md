@@ -210,4 +210,9 @@ Add Article Button is used to create new Article.
 
 #### Full routes map can be found in 'auth.php' and 'web.php' files.
 
+# One Last GIF as A Demo 
+![](https://github.com/ExceedLimits/NewsifierTestCMS/blob/master/screen-capture.gif)
+
+
+
 
